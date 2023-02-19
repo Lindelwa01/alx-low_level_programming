@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /**
  * main - Assign a random number to the variable n
  * Return: 0
