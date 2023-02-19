@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /**
  * main - Assign a random number to the variable n
  * Return: 0
@@ -14,9 +14,9 @@ if (n > 0)
 {
 	printf("%d is positive\n", n);
 }
-else if (n = 0)
+else if (n == 0)
 {
-	printf("%d is zer\n", n);
+	printf("%d is zero\n", n);
 }
 else
 {
